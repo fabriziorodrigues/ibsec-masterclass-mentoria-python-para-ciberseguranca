@@ -1,4 +1,4 @@
-# Webnar IBSEC curso Python para Cibersegurança
+# Webinar IBSEC curso Python para Cibersegurança
 
 Olá caro participante do Webinar IBSEC sobre o curso Python para Cibersegurança, aqui quem vos comunica é o Mentor e Professor Fabrizio Rodrigues, primeiramente agradecemos pela sua participação e desejamos que tenha tido uma excelente experiência no webinar gratuito que foi promovido pelo IBSEC.
 
