@@ -5,10 +5,10 @@ key = Fernet.generate_key()
 cipher_suite = Fernet(key)
 
 # Criptografar uma mensagem
-text = b"Hello, World!"
+text = b"Ola, IBSEC!"
 cipher_text = cipher_suite.encrypt(text)
-print("Cipher Text:", cipher_text)
+print("Texto criptografado:", cipher_text)
 
 # Descriptografar a mensagem
 decipher_text = cipher_suite.decrypt(cipher_text)
-print("Deciphered Text:", decipher_text)
+print("Texto decifrado:", decipher_text)
