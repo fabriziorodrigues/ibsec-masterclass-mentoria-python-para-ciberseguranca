@@ -2,7 +2,7 @@
 
 Olá caro participante do Master Class & Mentoria IBSEC sobre o curso Python para Cibersegurança, aqui quem vos comunica é o Mentor e Professor Fabrizio Rodrigues, primeiramente agradecemos pela sua participação e desejamos que tenha tido uma excelente experiência no Master Class & Mentoria gratuito que foi promovido pelo IBSEC.
 
-Neste repositório público, você poderá acessar e baixar gratuitamente os códigos apresentados no Master Class & Mentoria que aconteceu no dia 21/11/2023.
+Neste repositório público, você poderá acessar e baixar gratuitamente os códigos apresentados no Master Class & Mentoria que aconteceu no dia 19/12/2023.
 
 Não se esqueça de nos seguir pelo LinkedIn (https://www.linkedin.com/school/institutoibsec/about/) e acessar a nossa página (https://ibsec.com.br/), para ficar por dentro dos próximos eventos e conhecer mais sobre os cursos que oferecemos.
 
