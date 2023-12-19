@@ -1,3 +1,8 @@
+'''
+Atenção, os códigos foram criados para fins educacionais e não devem ser utilizados para outros fins.
+Esses código não são otimizados e portanto não devem ser utilizados em produção.
+'''
+
 from cryptography.fernet import Fernet
 
 # Geração da chave
